@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/5kjd.gif" width="100%" height="auto"/>
+<img src="https://t3.ftcdn.net/jpg/03/45/53/84/360_F_345538436_pPs6zELMEQIhf0CtK2527xUbYMtu0Xqg.jpg" width="100%" height="auto"/>
 <h1 align="center">Hi 👋, I'm Ahmed Hesham</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
