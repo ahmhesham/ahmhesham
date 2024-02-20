@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React, nodejs**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://dev.to/ahmhesham](https://dev.to/ahmhesham)
 
