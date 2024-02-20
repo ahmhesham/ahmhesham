@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, nodejs**
 
-- 📝 I regularly write articles on [https://dev.to/ahmed_hesham](https://dev.to/ahmed_hesham)
+- 📝 I regularly write articles on [https://dev.to/ahmhesham](https://dev.to/ahmhesham)
 
 - 💬 Ask me about **Django, pycord**
 
