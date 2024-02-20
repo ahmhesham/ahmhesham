@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Django, pycord**
 
-- 📫 How to reach me **Discord: 'ahmed_hesham.'**
+- 📫 How to reach me **Discord: 'ahmhesham'**
 
 
 </p>
