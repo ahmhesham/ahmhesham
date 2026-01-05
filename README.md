@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif">
+<img src="https://i.pinimg.com/originals/8f/38/8e/8f388ee83be2782215f9c931b5d3b67b.gif">
 Hi 🐼
 
 Don't expect too much, it's still a hobby
