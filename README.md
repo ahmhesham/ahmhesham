@@ -2,6 +2,7 @@
 Hi 🐼
 
 Don't expect too much, it's still a hobby
+
 i use AI => play it smart 🤨✨
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
